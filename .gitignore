@@ -1,0 +1,13 @@
+lib/*
+.gradle
+build/
+out/
+*.iml
+.idea
+.DS_Store
+
+dagger_hotness.xml
+develop.xml
+master.xml
+rework.xml
+topic/
